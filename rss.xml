@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BC Young Riders]]></title>
         <description><![CDATA[BC Young Riders]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bc-young-riders/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 07:49:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 07:49:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bc-young-riders/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f24715-317a-4414-b897-127f5771afaa.jpg">]]></description>
+            <link>https://thegrid.ai/bc-young-riders/903ed29d-db66-4cac-8a03-3f72e105dcc5/index.html</link>
+            <guid isPermaLink="false">903ed29d-db66-4cac-8a03-3f72e105dcc5</guid>
+            <pubDate>Thu, 11 Feb 2016 07:49:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5870ad1-7c97-48bd-99a7-057bb1e6ab5c.jpg">]]></description>
-            <link>undefinedd629a961-3f18-45ef-972b-774130322d21/index.html</link>
+            <link>https://thegrid.ai/bc-young-riders/d629a961-3f18-45ef-972b-774130322d21/index.html</link>
             <guid isPermaLink="false">d629a961-3f18-45ef-972b-774130322d21</guid>
             <pubDate>Thu, 11 Feb 2016 07:49:14 GMT</pubDate>
         </item>
