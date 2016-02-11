@@ -1,0 +1,28 @@
+name: BC Young Riders
+favicon: null
+layout_spectrum: 0.5616684735286981
+typography_spectrum: 0.3769467929378152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9422449069097638
+  lightness: 0.4779909213539213
+  saturation: 0.4198966610711068
+  rhythmicContrast: 0.808044879231602
+purpose: []
